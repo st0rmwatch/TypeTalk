@@ -1,4 +1,5 @@
-# TypeTalk
+TypeTalk
+========
 MaryTTS frontend with batteries included.
 
 #1. Build
